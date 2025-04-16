@@ -49,9 +49,3 @@ I value clean code, version control, and good development practices.
 </p>
 
 <hr style="border: 0; border-top: 1px solid #ddd;" />
-
-### 🐍 Snake animation
-
-<p align="center">
-  <img src="https://github.com/Vinicius-Antonio/Vinicius-Antonio/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-</p>
