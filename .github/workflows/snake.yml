@@ -2,20 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Gera a cobrinha a cada dia
+  workflow_dispatch:  # Permite disparar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Passo para gerar a cobrinha
       - uses: Platane/snk@v3
         with:
           github_user_name: Vinicius-Antonio
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          # Este é o local onde a cobrinha gerada será salva
+          output: "dist/github-contribution-grid-snake.svg"
 
-      - name: Push to GitHub
+      # Passo para adicionar e fazer commit do arquivo gerado
+      - name: Commit and Push Snake Animation
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
