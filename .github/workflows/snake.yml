@@ -10,14 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Passo para gerar a cobrinha
+      # Clona o repositório
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Gera a cobrinha
       - uses: Platane/snk@v3
         with:
           github_user_name: Vinicius-Antonio
-          # Este é o local onde a cobrinha gerada será salva
           output: "dist/github-contribution-grid-snake.svg"
 
-      # Passo para adicionar e fazer commit do arquivo gerado
+      # Commit e push do arquivo gerado
       - name: Commit and Push Snake Animation
         uses: EndBug/add-and-commit@v9
         with:
