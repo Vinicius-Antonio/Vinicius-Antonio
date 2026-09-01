@@ -79,22 +79,25 @@ interesses:
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Antonio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/Vinicius-Antonio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Antonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Antonio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" alt="Top Languages" />
+  <a href="https://github.com/Vinicius-Antonio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Antonio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Antonio&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6347&currStreakLabel=70A5FD" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Antonio&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Antonio&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinicius-Antonio&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <br/>
