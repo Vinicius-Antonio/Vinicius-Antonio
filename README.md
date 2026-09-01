@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=520&height=60&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Vin%C3%ADcius+Ant%C3%B4nio;Java+%7C+Spring+Boot+%7C+Web+Developer;Software+Engineering+%40+UTFPR" alt="Typing SVG" />
-</a>
+<h1>👋 Olá, eu sou Vinícius Antônio</h1>
 
 <br/>
 
