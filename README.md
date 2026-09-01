@@ -2,15 +2,6 @@
 
 <h1>👋 Olá, eu sou Vinícius Antônio</h1>
 
-<br/>
-
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Vinicius-Antonio&label=Visitantes&color=0e75b6&style=flat-square" alt="Visitantes" />
-&nbsp;
-<a href="https://github.com/Vinicius-Antonio?tab=followers">
-  <img src="https://img.shields.io/github/followers/Vinicius-Antonio?label=Seguidores&style=flat-square&color=236ad3" alt="Seguidores" />
-</a>
-
 </div>
 
 <br/>
