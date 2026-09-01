@@ -13,7 +13,7 @@
 ```yaml
 nome: Vinícius Antônio de Oliveira
 formação: Engenharia de Software @ UTFPR
-foco: Desenvolvimento Web — Backend & Fullstack
+foco: Desenvolvimento Web — Fullstack
 interesses:
   - Clean Architecture & SOLID
   - APIs RESTful com Java / Spring Boot
