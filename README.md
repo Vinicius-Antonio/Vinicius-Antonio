@@ -25,7 +25,7 @@ interesses:
 - 🎓 &nbsp;Estudante de **Engenharia de Software** na **UTFPR**
 - 🌱 &nbsp;Aprendendo mais sobre **Cloud, Docker** e **Clean Architecture**
 - 📫 &nbsp;Me encontre em **[vinicius.ddev@gmail.com](mailto:vinicius.ddev@gmail.com)**
-- 🌐 &nbsp;Meu portfólio: **[portfolio-viniciusddev.vercel.app](https://portfolio-viniciusddev.vercel.app)**
+
 
 <br/>
 
@@ -98,10 +98,7 @@ interesses:
 <a href="mailto:vinicius.ddev@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-&nbsp;
-<a href="https://portfolio-viniciusddev.vercel.app">
-  <img src="https://img.shields.io/badge/-Portfólio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
-</a>
+
 
 </div>
 
