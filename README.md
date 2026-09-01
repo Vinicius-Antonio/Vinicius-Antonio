@@ -2,7 +2,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Vin%C3%ADcius+Ant%C3%B4nio;Software+Engineering+%40+UTFPR+%7C+.NET+%26+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Vin%C3%ADcius+Ant%C3%B4nio;Software+Engineering+%40+UTFPR+%7C+Java+%26+Web+Dev" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,15 +28,15 @@ formação: Engenharia de Software @ UTFPR
 foco: Desenvolvimento Web — Backend & Fullstack
 interesses:
   - Clean Architecture & SOLID
-  - APIs RESTful com .NET / C#
+  - APIs RESTful com Java / Spring Boot
   - Single Page Applications com Angular
   - DevOps & CI/CD
 ```
 
-- 🔭 &nbsp;Atualmente trabalhando em projetos **C# / .NET** e **Angular**
+- 🔭 &nbsp;Atualmente trabalhando em projetos **Java / Spring Boot** e **Angular**
 - 🎓 &nbsp;Estudante de **Engenharia de Software** na **UTFPR**
 - 🌱 &nbsp;Aprendendo mais sobre **Cloud, Docker** e **Clean Architecture**
-- 💬 &nbsp;Pergunte-me sobre **C#, .NET, SQL, Angular, JavaScript**
+- 💬 &nbsp;Pergunte-me sobre **Java, Spring Boot, SQL, Angular, JavaScript**
 - 📫 &nbsp;Me encontre em **[vinicius.ddev@gmail.com](mailto:vinicius.ddev@gmail.com)**
 - 🌐 &nbsp;Meu portfólio: **[portfolio-viniciusddev.vercel.app](https://portfolio-viniciusddev.vercel.app)**
 
@@ -47,8 +47,8 @@ interesses:
 ## 🛠️ &nbsp;Tech Stack
 
 ### **Backend**
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -68,7 +68,7 @@ interesses:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br/>
@@ -94,46 +94,6 @@ interesses:
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Antonio&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/Vinicius-Antonio/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Antonio&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://github.com/Vinicius-Antonio/ai-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Antonio&repo=ai-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="AI Pipeline" />
-</a>
-
-<a href="https://github.com/Vinicius-Antonio/tamagops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Antonio&repo=tamagops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="TamagOps" />
-</a>
-&nbsp;
-<a href="https://github.com/Vinicius-Antonio/sistema-de-gerenciamento-de-biblioteca">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Antonio&repo=sistema-de-gerenciamento-de-biblioteca&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="Sistema de Biblioteca" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-Antonio/Vinicius-Antonio/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius-Antonio/Vinicius-Antonio/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Vinicius-Antonio/Vinicius-Antonio/output/github-snake.svg" />
-  </picture>
 </div>
 
 <br/>
