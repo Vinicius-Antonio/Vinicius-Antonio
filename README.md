@@ -100,7 +100,7 @@ interesses:
 </a>
 &nbsp;
 <a href="https://portfolio-viniciusddev.vercel.app">
-  <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/-Portfólio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
 </a>
 
 </div>
