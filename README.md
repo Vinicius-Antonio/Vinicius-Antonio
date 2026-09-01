@@ -1,50 +1,167 @@
-<h1 align="center">Hi 👋, I'm Vinícius Antônio de Oliveira</h1>
-<h3 align="center">💻 Web Developer focused on C# and .NET</h3>
-
-<hr style="border: 0; border-top: 1px solid #ddd;" />
-
-### 👨‍💻 About Me
-
-I'm currently studying Software Engineering at UTFPR.  
-I develop web applications using technologies such as **C#**, **.NET**, **SQL**, and **Angular**.  
-I value clean code, version control, and good development practices.
-
-<hr style="border: 0; border-top: 1px solid #ddd;" />
-
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
-<hr style="border: 0; border-top: 1px solid #ddd;" />
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Antonio&theme=vue-dark&show_icons=true&hide_border=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Antonio&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
+
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Vin%C3%ADcius+Ant%C3%B4nio;Software+Engineering+%40+UTFPR+%7C+.NET+%26+Web+Dev" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=Vinicius-Antonio&label=Visitantes&color=0e75b6&style=flat-square" alt="Visitantes" />
+&nbsp;
+<a href="https://github.com/Vinicius-Antonio?tab=followers">
+  <img src="https://img.shields.io/github/followers/Vinicius-Antonio?label=Seguidores&style=flat-square&color=236ad3" alt="Seguidores" />
+</a>
+
 </div>
 
-<hr style="border: 0; border-top: 1px solid #ddd;" />
+<br/>
 
-### 📬 Contact
+<!-- ══════════════════════════════════════════════════ -->
 
-<p>
-  <a href="https://www.linkedin.com/in/vinicius-antonio-de-oliveira/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:vinicius.ddev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre Mim
 
-<hr style="border: 0; border-top: 1px solid #ddd;" />
+```yaml
+nome: Vinícius Antônio de Oliveira
+formação: Engenharia de Software @ UTFPR
+foco: Desenvolvimento Web — Backend & Fullstack
+interesses:
+  - Clean Architecture & SOLID
+  - APIs RESTful com .NET / C#
+  - Single Page Applications com Angular
+  - DevOps & CI/CD
+```
+
+- 🔭 &nbsp;Atualmente trabalhando em projetos **C# / .NET** e **Angular**
+- 🎓 &nbsp;Estudante de **Engenharia de Software** na **UTFPR**
+- 🌱 &nbsp;Aprendendo mais sobre **Cloud, Docker** e **Clean Architecture**
+- 💬 &nbsp;Pergunte-me sobre **C#, .NET, SQL, Angular, JavaScript**
+- 📫 &nbsp;Me encontre em **[vinicius.ddev@gmail.com](mailto:vinicius.ddev@gmail.com)**
+- 🌐 &nbsp;Meu portfólio: **[portfolio-viniciusddev.vercel.app](https://portfolio-viniciusddev.vercel.app)**
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════ -->
+
+## 🛠️ &nbsp;Tech Stack
+
+### **Backend**
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### **Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Banco de Dados**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### **Ferramentas & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════ -->
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Antonio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Antonio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Antonio&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6347&currStreakLabel=70A5FD" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Antonio&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/Vinicius-Antonio/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Antonio&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/Vinicius-Antonio/ai-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Antonio&repo=ai-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="AI Pipeline" />
+</a>
+
+<a href="https://github.com/Vinicius-Antonio/tamagops">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Antonio&repo=tamagops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="TamagOps" />
+</a>
+&nbsp;
+<a href="https://github.com/Vinicius-Antonio/sistema-de-gerenciamento-de-biblioteca">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Antonio&repo=sistema-de-gerenciamento-de-biblioteca&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" alt="Sistema de Biblioteca" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp;Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-Antonio/Vinicius-Antonio/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius-Antonio/Vinicius-Antonio/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Vinicius-Antonio/Vinicius-Antonio/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════ -->
+
+## 📬 &nbsp;Conecte-se Comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vinicius-antonio-de-oliveira/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:vinicius.ddev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://portfolio-viniciusddev.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=footer" width="100%" />
+</div>
