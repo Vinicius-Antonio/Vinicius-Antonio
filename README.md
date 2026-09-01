@@ -21,10 +21,9 @@ interesses:
   - DevOps & CI/CD
 ```
 
-- 🔭 &nbsp;Atualmente trabalhando em projetos **Java / Spring Boot** e **Angular**
+- 🔭 &nbsp;Atualmente trabalhando em projetos **Java / Spring Boot** e **React**
 - 🎓 &nbsp;Estudante de **Engenharia de Software** na **UTFPR**
 - 🌱 &nbsp;Aprendendo mais sobre **Cloud, Docker** e **Clean Architecture**
-- 💬 &nbsp;Pergunte-me sobre **Java, Spring Boot, SQL, Angular, JavaScript**
 - 📫 &nbsp;Me encontre em **[vinicius.ddev@gmail.com](mailto:vinicius.ddev@gmail.com)**
 - 🌐 &nbsp;Meu portfólio: **[portfolio-viniciusddev.vercel.app](https://portfolio-viniciusddev.vercel.app)**
 
