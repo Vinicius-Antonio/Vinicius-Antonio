@@ -91,7 +91,7 @@ interesses:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vinicius-antonio-de-oliveira/" target="_blank">
+<a href="https://www.linkedin.com/in/vinicius-antonio-de-oliveira/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
@@ -99,7 +99,7 @@ interesses:
   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://portfolio-viniciusddev.vercel.app" target="_blank">
+<a href="https://portfolio-viniciusddev.vercel.app">
   <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
 
