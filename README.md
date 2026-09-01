@@ -2,7 +2,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Vin%C3%ADcius+Ant%C3%B4nio;Software+Engineering+%40+UTFPR+%7C+Java+%26+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=520&height=60&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Vin%C3%ADcius+Ant%C3%B4nio;Java+%7C+Spring+Boot+%7C+Web+Developer;Software+Engineering+%40+UTFPR" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -79,13 +79,9 @@ interesses:
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Vinicius-Antonio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Antonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinicius-Antonio&theme=tokyonight" alt="GitHub Stats" />
   &nbsp;
-  <a href="https://github.com/Vinicius-Antonio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Antonio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinicius-Antonio&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
